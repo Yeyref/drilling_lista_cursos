@@ -1,4 +1,4 @@
-# consolidacion_grupal
+# drilling_lista_cursos
 
 ## Project setup
 ```
